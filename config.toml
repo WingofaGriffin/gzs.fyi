@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "gzs.fyi"
-theme = "coder"
+theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
