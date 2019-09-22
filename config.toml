@@ -1,4 +1,4 @@
-baseurl = "https://gzs-fyi.netlify.com/"
+baseurl = "https://gzs.fyi/"
 title = "gzs.fyi"
 theme = "hugo-coder"
 languagecode = "en"
