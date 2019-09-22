@@ -1,6 +1,6 @@
-baseurl = "https://gzs-fyi.netlify.com/"
+baseurl = "https://gzs.fyi"
 title = "gzs.fyi"
-theme = "hugo-coder"
+theme = "coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
