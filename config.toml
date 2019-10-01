@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://gzs.fyi"
 title = "gzs.fyi"
 theme = "hugo-coder"
 languagecode = "en"
