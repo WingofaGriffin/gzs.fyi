@@ -3,19 +3,17 @@ title: "About"
 slug: "about"
 ---
 
-I am a Yale computer science graduate with a passion for technology, experienced in multiple facets of business management and development. As a Developer Advocate, I aim to harness my passion for technology and innovation into the actions and words I use to market our product to developers around the world.
+I am a developer advocate with a passion for getting people of all experience levels involved with technology and development with new resources. I focus on building personal connections between users to share stories and experiences. I have a particular love for open source technologies, creating readable documentation, and making the whole ecosystem more enjoyable, welcoming place to be a part of.
 
-I have worked in a large variety of companies, with beginner start-ups, small non-profits, and large research organizations. I have worn just about every hat from human resources to IT to management to development. I am a go getter who approaches any task thrown at him with drive, and am an excellent team worker.
+Outside of technology, I can be found curating the perfect Spotify playlists, finding the best new restaurants in town, and perfecting my skincare routine.
 
 I have experience in:
 
 - Unix: 8 years
+- JavaScript: 3 years
 - Python: 3 years
 - C: 3 years
+- Developer Relations: 2 years
 - Product Management: 2 years
 - Web Development: 2 years
-- JavaScript: 2 years
 - SQL: 2 years
-- Developer Relations: 1 year
-
-[Resume](/cv.pdf)
