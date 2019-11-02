@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gzs.fyi</title>
@@ -16,8 +16,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gzs.fyi/about/</guid>
-      <description>I am a Yale computer science graduate with a passion for technology, experienced in multiple facets of business management and development. As a Developer Advocate, I aim to harness my passion for technology and innovation into the actions and words I use to market our product to developers around the world.
-I have worked in a large variety of companies, with beginner start-ups, small non-profits, and large research organizations. I have worn just about every hat from human resources to IT to management to development.</description>
+      <description>I am a developer advocate with a passion for getting people of all experience levels involved with technology and development with new resources. I focus on building personal connections between users to share stories and experiences. I have a particular love for open source technologies, creating readable documentation, and making the whole ecosystem more enjoyable, welcoming place to be a part of.
+Outside of technology, I can be found curating the perfect Spotify playlists, finding the best new restaurants in town, and perfecting my skincare routine.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://gzs.fyi/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gzs.fyi/portfolio/</guid>
+      <description>Here is a list of some of the projects I have worked on as a Developer Advocate.
+Sample Apps  Amazon Review Scraper Okta Twilio Demo Pridebot SIGNAL 2019 Raffle Slack Portal Slack new user notifications Slack actions and dialog Slack Smartsheet Helpdesk  Blog Posts  Using a Slack app as a communication portal between different workspaces Creating an API from HTML: Scraping Amazon Reviews into Google Sheets Exploring new user notifications in Slack PrideBot is a reminder that pride is both worldwide and never-ending 🏳️‍🌈  Talks  Making the most of Slack webhooks (Slack Platform Community) &amp;ndash; Coming soon!</description>
     </item>
     
   </channel>
